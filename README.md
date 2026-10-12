@@ -21,3 +21,8 @@ The SOVRINT™ proprietary rights notice identifies Katrina Pietroniro as the or
 ## Provenance rule
 
 For every addition, preserve the original author, source repository and path, version/date, checksum where available, and evidence status. Distinguish authorship from independent validation and distinguish public availability from permission to reuse.
+
+
+## Research status and evidence
+
+See [RESEARCH_STATUS.yaml](./RESEARCH_STATUS.yaml) for the version, release, DOI, evidence class, validation state, source-register guidance, and rights metadata. Update that record when those facts change. Cite sources beside claims that depend on them; citation alone does not grant reuse permission.
