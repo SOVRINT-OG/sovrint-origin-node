@@ -1,0 +1,19 @@
+record_id: SOVRINT-ORIGIN-001
+system: SOVRINT
+record_type: authorship_and_source_index
+originating_author: Katrina Pietroniro
+source_authority: SOVRINT-OG/sovrint-core/SOVRINT_LICENSE.md
+status: repository_index
+scope: "Original SOVRINT material authored or lawfully owned by the named author"
+exclusions:
+  - "Independent third-party works and components"
+  - "Identity verification or legal registry functions"
+  - "Claims of independent empirical validation"
+provenance_fields:
+  - source_repository
+  - source_path
+  - author
+  - version
+  - timestamp
+  - checksum
+  - evidence_status
